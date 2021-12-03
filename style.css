@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue!important;
+}
+th {
+    BACKGROUND-COLOR: black;
+   color:white;
+    
+}
+
+
+
+input#submit {
+    background-color: blue;
+    color: white;
+}
+
+button#add {
+    background-color: blue;
+}
